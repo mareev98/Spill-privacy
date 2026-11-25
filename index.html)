@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPILL — Privacy Policy and Terms of Use</title>
+<meta name="description" content="SPILL Privacy Policy and Terms of Use. SPILL collects no personal information.">
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.65;
+    color: #1d1a16;
+    background: #faf7f2;
+  }
+  header {
+    background: #1d1a16;
+    color: #f5efe6;
+    padding: 3rem 1.25rem 2.5rem;
+    text-align: center;
+  }
+  header h1 { margin: 0 0 .25rem; font-size: 2.5rem; letter-spacing: .35em; text-indent: .35em; }
+  header p { margin: .25rem 0; color: #d8cfc2; }
+  header .tagline { font-style: italic; }
+  header .meta { font-size: .9rem; }
+  nav {
+    background: #efe8dc;
+    border-bottom: 1px solid #ddd2bf;
+    padding: .75rem 1.25rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+  }
+  nav a { color: #1d1a16; margin: 0 .9rem; font-weight: 600; text-decoration: none; }
+  nav a:hover { text-decoration: underline; }
+  main { max-width: 720px; margin: 0 auto; padding: 2rem 1.25rem 3rem; }
+  h2 { font-size: 1.7rem; margin: 2.5rem 0 .5rem; padding-top: 1rem; border-top: 2px solid #1d1a16; }
+  h2:first-of-type { border-top: none; margin-top: 0; padding-top: 0; }
+  h3 { font-size: 1.2rem; margin: 1.75rem 0 .4rem; }
+  p { margin: .6rem 0; }
+  ul { margin: .6rem 0; padding-left: 1.4rem; }
+  li { margin: .35rem 0; }
+  li strong { font-weight: 700; }
+  table { width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: .95rem; }
+  th, td { text-align: left; padding: .6rem .75rem; border: 1px solid #ddd2bf; vertical-align: top; }
+  th { background: #efe8dc; }
+  a { color: #7a5c2e; }
+  footer {
+    border-top: 1px solid #ddd2bf;
+    padding: 1.5rem 1.25rem 2.5rem;
+    text-align: center;
+    font-size: .9rem;
+    color: #6b6259;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>SPILL</h1>
+  <p>Privacy Policy and Terms of Use</p>
+  <p class="tagline">Less small talk. More SPILL.</p>
+  <p class="meta">Effective date: 25 November 2026 &middot; Version 1.0</p>
+</header>
+<nav>
+  <a href="#privacy">Privacy Policy</a>
+  <a href="#terms">Terms of Use</a>
+</nav>
+<main>
+
+<h2 id="privacy">Privacy Policy</h2>
+<p>For SPILL &mdash; the conversation game</p>
+<p>Effective date: 25 November 2026</p>
+<p>SPILL is a conversation and party game. You pick a topic, read a prompt aloud, and talk. This policy explains, in plain English, what information SPILL does and does not handle when you play.</p>
+
+<h3>In short: SPILL collects no personal information</h3>
+<p>SPILL has no user accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect, receive, sell or share your personal information, and we do not ask you to enter any personal information to play.</p>
+
+<table>
+  <thead>
+    <tr><th>Question</th><th>SPILL</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Do I need an account?</td><td>No. There is no sign-in.</td></tr>
+    <tr><td>Is personal information collected?</td><td>No.</td></tr>
+    <tr><td>Are my answers recorded?</td><td>No. Answers are spoken, never entered into SPILL.</td></tr>
+    <tr><td>Does SPILL track me?</td><td>No analytics, advertising or tracking.</td></tr>
+    <tr><td>Is anything stored?</td><td>Recently shown cards only, on your device only.</td></tr>
+    <tr><td>Is a game session saved?</td><td>No. Closing or reloading ends the session.</td></tr>
+  </tbody>
+</table>
+
+<h3>Who we are</h3>
+<p>SPILL is provided by Maree Vazouras (&ldquo;we&rdquo;, &ldquo;us&rdquo;). You can contact us about privacy at <a href="mailto:ophidiassecret@outlook.com">ophidiassecret@outlook.com</a>.</p>
+
+<h3>Information we do not collect</h3>
+<p>We do not collect any of the following through SPILL:</p>
+<ul>
+  <li>Names, email addresses, phone numbers or other contact details.</li>
+  <li>Accounts, usernames, passwords or profile information.</li>
+  <li>Anything you say while playing. Conversations happen between the people in the room and are not recorded, transcribed, uploaded or stored by SPILL.</li>
+  <li>Location, contacts, photos, microphone or camera data.</li>
+  <li>Payment information. SPILL does not take payments in the app, and there are no in-app purchases or subscriptions. If you buy SPILL from the App Store, Apple handles the payment and we do not receive your payment details.</li>
+  <li>Usage analytics, advertising identifiers or behavioural tracking data.</li>
+</ul>
+
+<h3>What stays on your device</h3>
+<p>To avoid showing you the same prompt again straight away, SPILL may keep a short record of recently shown cards on your device, inside the app or your browser&rsquo;s local storage. This record:</p>
+<ul>
+  <li><strong>Stays local:</strong> stays on your device and is not sent to us or to anyone else;</li>
+  <li><strong>Cards only:</strong> contains card identifiers only &mdash; not your name, your answers or anything about you;</li>
+  <li><strong>You control it:</strong> can be removed by clearing the app&rsquo;s or browser&rsquo;s site data, or by uninstalling the app.</li>
+</ul>
+<p>SPILL does not save a game session. If you close or reload SPILL, your place in a deck is not saved and there is no history, favourites list or resume feature. That is by design.</p>
+
+<h3>Website hosting and external links</h3>
+<p>If you play SPILL on the web, the service that hosts the website may automatically keep standard technical server logs, such as an internet protocol (IP) address and browser type, as part of operating and securing the hosting service. We do not use those logs to identify or track players. If SPILL links to an external website, that website has its own privacy policy and we are not responsible for it.</p>
+
+<h3>Children</h3>
+<p>SPILL is a conversation game for older teens and adults. Some prompts, particularly in The Grey Area deck, discuss adult relationships and moral dilemmas. SPILL is not directed at children, and we do not knowingly collect personal information from anyone, including children.</p>
+
+<h3>Security and retention</h3>
+<p>Because SPILL does not collect or receive your personal information, we hold no database of player information to secure, retain or delete. The only record described above is the recent-cards record on your own device, under your control.</p>
+
+<h3>Your rights in Australia</h3>
+<p>Under Australian privacy law you have rights in relation to personal information held about you, including to ask what is held and to ask for a correction. Because SPILL does not collect or hold your personal information, there is ordinarily nothing for us to provide or correct. If you believe we do hold personal information about you, contact us at <a href="mailto:ophidiassecret@outlook.com">ophidiassecret@outlook.com</a> and we will respond.</p>
+
+<h3>Changes to this policy</h3>
+<p>If SPILL changes in a way that affects privacy &mdash; for example, if accounts, analytics or advertising are added &mdash; we will update this policy, change the effective date above, and publish the updated policy at the same link before the change takes effect.</p>
+
+<h3>Contact us</h3>
+<p>Questions about this policy: <a href="mailto:ophidiassecret@outlook.com">ophidiassecret@outlook.com</a>.</p>
+
+<h2 id="terms">Terms of Use</h2>
+<p>For SPILL &mdash; the conversation game</p>
+<p>Effective date: 25 November 2026</p>
+<p>These terms apply when you download, access or play SPILL. By playing SPILL, you agree to them. If you do not agree, please do not use SPILL.</p>
+
+<h3>About SPILL</h3>
+<p>SPILL is a conversation game &mdash; &ldquo;Less small talk. More SPILL.&rdquo; It presents prompts from three decks &mdash; Food for Thought, Under the Surface and The Grey Area &mdash; plus &ldquo;Other Side&rdquo; follow-up prompts, a Mix It Up shuffle of the same decks, and closing questions in The Last Drop. There is no score, no winner and no account. SPILL does not save a game session, so closing or reloading the app ends that session.</p>
+
+<h3>Who can use SPILL</h3>
+<p>SPILL is intended for older teens and adults. Some prompts discuss adult relationships, infidelity, family conflict, money and other mature themes, in discussion form only. If you are under 18, use SPILL with the agreement of a parent or guardian and only with prompts that are appropriate for you and the people playing with you.</p>
+
+<h3>Playing with others</h3>
+<ul>
+  <li>Anyone may pass on any prompt, at any time, for any reason. No one has to answer a prompt, explain a pass, or share anything they would prefer to keep private.</li>
+  <li>Respect the room: What you choose to say while playing is your responsibility. Be respectful of the other people in the conversation, and do not use SPILL to harass, embarrass or pressure anyone.</li>
+  <li>Your conversation stays yours: SPILL does not record or send your conversation anywhere. What is said in a game is between the players.</li>
+</ul>
+
+<h3>Not professional advice</h3>
+<p>Every prompt in SPILL is a conversation starter for discussion and entertainment only. Prompts that touch on relationships, mental health, family, money, work or right and wrong are not counselling, therapy, medical, financial, legal or other professional advice, and playing SPILL is not a substitute for professional help. If a topic raised in a game affects you, please seek support from a qualified professional or a trusted support service.</p>
+
+<h3>Our content</h3>
+<p>The prompts, deck names, text, design and branding in SPILL belong to Maree Vazouras or are used with permission. You may play SPILL for your own personal, non-commercial entertainment. You must not copy, republish, sell or distribute the prompt decks or a substantial part of them, or present them as your own product, without our written permission.</p>
+
+<h3>Acceptable use</h3>
+<p>You must not:</p>
+<ul>
+  <li>Use SPILL in a way that breaks the law or infringes someone else&rsquo;s rights.</li>
+  <li>Copy, scrape or extract the prompt decks to build a competing product.</li>
+  <li>Misrepresent SPILL or claim to be affiliated with us when you are not.</li>
+  <li>Interfere with the app or website, or try to access systems you are not authorised to access.</li>
+</ul>
+
+<h3>Availability and changes</h3>
+<p>We may update SPILL, add or remove prompts, fix tagging or wording, and change or discontinue features. Where SPILL has been installed or cached for offline use, an older copy may keep working on your device until it is updated. We do not guarantee that SPILL will always be available, uninterrupted or free of errors.</p>
+
+<h3>Downloads from an app store</h3>
+<p>If you download SPILL from the Apple App Store or another app store, that store&rsquo;s terms also apply to the download. The store is not responsible for SPILL or its content. If there is a conflict between these terms and a store term that must apply by law, the store term prevails to that extent. SPILL is a one-off paid download. The price is the price shown in the App Store at the time you buy it, and payment and refunds are handled by Apple under the store&rsquo;s terms.</p>
+
+<h3>Australian Consumer Law</h3>
+<p>Nothing in these terms excludes, restricts or modifies any right or guarantee you have under the Australian Consumer Law or any other law that cannot lawfully be excluded. If SPILL is supplied with a failure that is a major failure under that law, you are entitled to the remedies that law provides.</p>
+
+<h3>Liability</h3>
+<p>To the maximum extent permitted by law, SPILL is provided &ldquo;as is&rdquo; for entertainment, and we are not liable for how players choose to use a prompt, what is said in a game, or any indirect or consequential loss arising from use of SPILL. This section does not limit any liability that cannot be limited by law.</p>
+
+<h3>Privacy</h3>
+<p>SPILL collects no personal information. See the <a href="#privacy">SPILL Privacy Policy</a> for the full statement, including the recent-cards record that stays on your device only.</p>
+
+<h3>Changes to these terms</h3>
+<p>We may update these terms from time to time. The version published at this link, with its effective date, is the version that applies. Continuing to use SPILL after an update means you accept the updated terms.</p>
+
+<h3>Governing law</h3>
+<p>These terms are governed by the laws of Queensland, Australia, and the courts of Queensland have jurisdiction in relation to them.</p>
+
+<h3>Contact us</h3>
+<p>Questions about these terms: <a href="mailto:ophidiassecret@outlook.com">ophidiassecret@outlook.com</a>. SPILL is provided by Maree Vazouras.</p>
+
+</main>
+<footer>
+  <p>SPILL &mdash; Less small talk. More SPILL.</p>
+  <p>Provided by Maree Vazouras &middot; <a href="mailto:ophidiassecret@outlook.com">ophidiassecret@outlook.com</a></p>
+  <p>Effective date: 25 November 2026 &middot; Version 1.0</p>
+</footer>
+</body>
+</html>
